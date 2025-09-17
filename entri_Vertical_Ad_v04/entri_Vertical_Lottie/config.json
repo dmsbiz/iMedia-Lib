@@ -1,0 +1,53 @@
+{
+    "v": "1.0.0",
+    "meta": {
+        "category": "Scheduled Slide Show",
+        "enableHardwareAcceleration":true
+    },
+    "data": [
+        {
+            "name": "promovideo",
+            "datafile": "data.json",
+            "playlist": [
+                {
+                    "name": "Text",
+                    "type": "text",
+                    "textData": [
+                        ["inputData","{csvData.textdata}",null,null,null,"text","slide1"],
+                        ["screenName", "{screen[name]}", null, null ,null, null, null],
+                        ["assets.15.layers.0", "(parseCsvLine({inputData})[0] + '\\r').repeat(37);", null, null ,null, null, null],
+                        ["assets.15.layers.1", "(parseCsvLine({inputData})[0] + '\\r').repeat(37);", null, null ,null, null, null],
+                        ["assets.15.layers.2", "(parseCsvLine({inputData})[0] + '\\r').repeat(37);", null, null ,null, null, null],
+                        ["assets.15.layers.3", "(parseCsvLine({inputData})[0] + '\\r').repeat(37);", null, null ,null, null, null],
+
+
+                        ["assets.21.layers.0", "parseCsvLine({inputData})[1]", null, null,null, null, null],
+                        ["assets.21.layers.1", "parseCsvLine({inputData})[2]", null, null,null, null, null],
+                        ["assets.21.layers.5", "parseCsvLine({inputData})[3].split(',')[0]", null, null,null, null, null],
+                        ["assets.21.layers.7", "parseCsvLine({inputData})[3].split(',')[1]", null, null,null, null, null],
+                        ["assets.21.layers.9", "parseCsvLine({inputData})[3].split(',')[2]", null, null,null, null, null],
+                        ["assets.21.layers.14", "parseCsvLine({inputData})[3].split(',')[3]", null, null,null, null, null],
+                        ["assets.21.layers.17", "parseCsvLine({inputData})[3].split(',')[4]", null, null,null, null, null],
+                        ["assets.21.layers.20", "parseCsvLine({inputData})[3].split(',')[5]", null, null,null, null, null],
+                        ["courseName", "parseCsvLine({inputData})[0]", null, null ,null, null, null],
+                        [
+                            "qrCodeWrapper",
+                            "",
+                            null,
+                            null,
+                            [
+                                "img_4.jpg",
+                                "Fn(QRCodeURL,'https://wa.me/918943662922?text=Know More about course {courseName}? Unlock offers at {screen[name]}',482)",
+                                "500",
+                                "500"
+                            ],
+                            "text",
+                            "slide1"
+                        ]
+                        
+                    ]
+                }
+            ]
+        }
+    ]
+}
