@@ -1,0 +1,539 @@
+Report created: 
+	22-Sep-25	5:48:07 PM
+
+Project name: verapril4_vertical_02.aep
+
+Source files collected to: 
+	D:\DMS\Aprilia\Archive (2)\collectedfile\verapril4_vertical_02 folder
+
+Source files collected: All
+
+Collected comps:  
+	  Full Preview
+	01 BG Replace Image Here
+	02 BG Replace Image Here
+	03 BG Replace Image Here
+	04 BG Replace Image Here
+	05 BG Replace Image Here
+	05 Replace Image Here 01
+	05 Replace Image Here 02
+	05 Replace Image Here 03
+	05 Replace Image Here 04
+	05 Replace Image Here 05
+	06 BG Replace Image Here
+	07 BG Replace Image Here
+	08 BG Replace Image Here
+	09 BG Replace Image Here
+	10 BG Replace Image Here
+	11 BG Replace Image Here
+	12 BG Replace Image Here
+	01
+	02
+	03
+	04
+	05
+	06
+	07
+	08
+	09
+	10
+	11
+	12
+	Fast_Lines_Title
+	Fast_Lines_BG
+	 Full Masking
+	 Full Transition
+	01 Replace Image Here
+	02 Replace Image Here
+	03 Replace Image Here
+	04 Replace Image Here
+	05 Replace Image Here
+	06 Replace Image Here
+	07 Replace Image Here
+	08 Replace Image Here
+	09 Replace Image Here
+	10 Replace Image Here
+	11 Replace Image Here
+	12 Replace Image Here
+	save
+	info_01
+	info_02
+	info_03
+	info_04
+	media_01
+	media_02
+	media_03
+	media_04
+	media_05
+	media_06
+	Action Sports 01
+	media_07
+	media_08
+	media_09
+	media_10
+	media_11
+	media_12
+	media_13
+	media_14
+	media_15
+	media_16
+	media_17
+	media_18
+	media_19
+	Saroj Diagonostic.jpg Comp 1
+	scene_01
+	scene_02
+	scene_03
+	scene_04
+	scene_05
+	Action Sports 02
+	Action Sports 03
+	Action Sports 04
+	Action Sports 05
+	Action Sports 06
+	Action Sports 07
+	Action Sports 08
+	Action Sports 09
+	Action Sports 10
+	Action Sports 11
+	Scene 01 Placeholder
+	Scene 02 Placeholder
+	Scene 03 Placeholder 01
+	Scene 03 Placeholder 02
+	Scene 03 Placeholder 03
+	Scene 04 Placeholder
+	Scene 05 Placeholder 01
+	Scene 05 Placeholder 02
+	Scene 06 Placeholder
+	Scene 07 Placeholder 01
+	Scene 07 Placeholder 02
+	Scene 08 Placeholder 01
+	Scene 08 Placeholder 02
+	Scene 08 Placeholder 03
+	Scene 09 Placeholder
+	Scene 10 Placeholder 01
+	Scene 10 Placeholder 02
+	Scene 11 Placeholder
+	Scene 01 Text 01
+	Scene 01 Text 02
+	Scene 02 Text 01
+	Scene 02 Text 02
+	Scene 03 Text 01
+	Scene 03 Text 02
+	Scene 04 Text 01
+	Scene 04 Text 02
+	Scene 05 Text 01
+	Scene 05 Text 02
+	Scene 06 Text 01
+	Scene 06 Text 02
+	Scene 07 Text 01
+	Scene 07 Text 02
+	Scene 08 Text 01
+	Scene 08 Text 02
+	Scene 09 Text 01
+	Scene 09 Text 02
+	Scene 10 Text 01
+	Scene 10 Text 02
+	Scene 11 Text 01
+	Scene 11 Text 02
+	Action Sports
+	01
+	02
+	03
+	04
+	05
+	06
+	07
+	08
+	09
+	10
+	11
+	AS 01
+	AS 02
+	AS 03
+	AS 04
+	AS 05
+	AS 06
+	AS 07
+	AS 08
+	AS 09
+	AS 10
+	AS 11
+	EL 01
+	EL 02
+	EL 03
+	EL 04
+	EL 05
+	EL 06
+	EL 07
+	EL 08
+	EL 09
+	EL 10
+	EL 11
+	Glitch Comp
+	Scene 01 Text 01 PrC
+	Scene 01 Text 02 PrC
+	Scene 02 Text 01 PrC
+	Scene 02 Text 02 PrC
+	Scene 03 Text 01 PrC
+	Scene 03 Text 02 PrC
+	Scene 04 Text 01 PrC
+	Scene 04 Text 02 PrC
+	Scene 05 Text 01 PrC
+	Scene 05 Text 02 PrC
+	Scene 06 Text 01 PrC
+	Scene 06 Text 02 PrC
+	Scene 07 Text 01 PrC
+	Scene 07 Text 02 PrC
+	Scene 08 Text 01 PrC
+	Scene 08 Text 02 PrC
+	Scene 09 Text 01 PrC
+	Scene 09 Text 02 PrC
+	Scene 10 Text 01 PrC
+	Scene 10 Text 02 PrC
+	Scene 11 Text 01 PrC
+	Scene 11 Text 02 PrC
+	SS 01
+	SS 02
+	SS 03
+	SS 04
+	SS 05
+	SS 06
+	SS 07
+	SS 08
+	SS 09
+	SS 10
+	SS 11
+	T09
+	T10
+	T11
+	T01 01 Text
+	T01 02 Text
+	T01 03 Shape
+	T02 01 Text
+	T02 02 Text
+	T02 03 Shape
+	T03 01 Text
+	T03 02 Text
+	T03 03 Shape
+	T04 01 Text
+	T04 02 Text
+	T04 03 Shape
+	T05 01 Text
+	T05 02 Text
+	T05 03 Shape
+	T06 01 Text
+	T06 02 Text
+	T06 03 Shape
+	T07 01 Text
+	T07 02 Text
+	T07 03 Shape
+	T08 01 Text
+	T08 02 Text
+	T08 03 Shape
+	T09 01 Text
+	T09 02 Text
+	T09 03 Shape
+	T10 01 Text
+	T10 02 Text
+	T10 03 Shape
+	Text Comp_01
+	Text Comp_02
+	Text Comp_03
+	Text Comp_04
+	Text Comp_05
+	Text Comp_06
+	Text Comp_07
+	Text Comp_08
+	Text Comp_09
+	Text Comp_10
+	Text Comp_11
+	TT 11 01 Text
+	TT 11 02 Text
+	TT 11 03 Shape
+	Medical Diagnostic Service 2 Comp 1
+	text_01
+	text_02
+	text_03
+	text_04
+	text_05
+	That you can trust 2 Comp 1
+	logo
+	Asset 1.png Comp 1
+	Asset 3@3x.png Comp 1
+	Render
+	Shape Layer 1 Comp 1
+	Shape Layer 1 Comp 2
+	Shape Layer 1 Comp 3
+	Shape Layer 2 Comp 1
+	Shape Layer 3 Comp 1
+	PR
+	Preview
+	Asset 4@3x.png Comp 1
+	Bone ray.png Comp 1
+	Brain x ray.png Comp 1
+	Head x ray.png Comp 1
+	Lungs x ray.png Comp 1
+	Mri .png Comp 1
+	Placeholder_01
+	Placeholder_02
+	Placeholder_03
+	Placeholder_04
+	Placeholder_05
+	Placeholder_06
+	Placeholder_07
+	Placeholder_08
+	Placeholder_09
+	Placeholder_10
+	Placeholder_11
+	Placeholder_12
+	Placeholder_13
+	Placeholder_14
+	Placeholder_15
+	Radiology.png Comp 1
+	Stomach scan.png Comp 1
+	Ultrasound.png Comp 1
+	Scene_03
+	Edit QR Code
+	Scene 01
+	QR Code Element 01
+	Edit QR Code
+	Media Placeholder
+	Pre-comp 1
+	rttt@2x.png Comp 1
+	rttt@2x.png Comp 2
+	Scene 02
+	Shape Layer 1 Comp 4
+	Shape Layer 4 Comp 1
+	TRANSASIA CYBERPARK KOCHI Comp 1
+	QR Code Element 02
+	Edit QR Code
+	Icon Here
+	Media Placeholder
+	Scene 03
+	QR Code Element 03
+	Edit QR Code
+	Scene 04
+	QR Code Element 04
+	Edit QR Code
+	Scene 05
+	QR Code Element 05
+	Edit QR Code
+	Scene 06
+	QR Code Element 06
+	Edit QR Code
+	Scene 07
+	QR Code Element 07
+	Edit QR Code
+	Edit Text
+	Scene 08
+	QR Code Element 08
+	Preview Scenes
+	Sale Badge_01
+	Sale Badge_02
+	Sale Badge_03
+	Sale Badge_04
+	Sale Badge_05
+	Sale Badge_06
+	Sale Badge_07
+	Sale Badge_08
+	Sale Badge_09
+	Color Controler
+	Color Controler
+	Color Controler
+	Color Controler
+	Color Controler
+	Text Holder_1
+	Text Holder_2
+	Text Holder_1
+	Text Holder_2
+	Text Holder_3
+	Text Holder_1
+	Text Holder_2
+	Text Holder_3
+	Text Holder_4
+	Text Holder
+	Text Holder_1
+	Text Holder_2
+	Text Holder_3
+	Text Holder_4
+	Text Holder_5
+	Text Holder_6
+	Object
+	bm_charHelper
+	bm_charHelper
+	bm_fontHelper
+	bm_fontHelper
+	tempConverterComp
+	Fast_Lines_BG_02_HD_Placeholder
+	Fast_Lines_BG_HD_01
+	Fast_Lines_BG_HD_02
+	Aprilla
+	Fast_Lines_BG_01_HD_Placeholder
+	Fast_Lines_BG_03_HD_Placeholder
+	Fast_Lines_BG_HD_04
+	Fast_Lines_BG_04_HD_Placeholder
+	Fast_Lines_BG_HD_05
+	Fast_Lines_BG_05_HD_Placeholder
+	Fast_Lines_BG_HD_06
+	Fast_Lines_BG_06_HD_Placeholder
+	Fast_Lines_BG_HD_07
+	Fast_Lines_BG_07_HD_Placeholder
+	Fast_Lines_BG_HD_08
+	Fast_Lines_BG_08_HD_Placeholder
+	Fast_Lines_BG_HD_09
+	Fast_Lines_BG_09_HD_Placeholder
+	Fast_Lines_BG_HD_10
+	Fast_Lines_BG_10_HD_Placeholder
+	Fast_Lines_BG_HD_11
+	Fast_Lines_BG_11_HD_Placeholder
+	Aprilia-logo.svg.png Comp 1
+	images.jpeg Comp 1
+	Pre-comp 1
+	adobe-express-qr-code.png Comp 1
+	Pre-comp 2
+	wp14407465-aprilia-rs-457-wallpapers.jpg Comp 1
+	Pre-comp 3
+	Pre-comp 4
+	Pre-comp 5
+	Aprilia_Logo.png Comp 1
+	
+Number of collected files:  67
+
+Size of collected files:  124 MB
+
+Collected source files: 
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 02 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 02 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 03 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 03 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 04 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 04 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 05 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 05 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 06 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 06 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 07 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 07 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 08 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 08 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 09 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 10 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\EL 10 02.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Action Sports.aep\03. Other\Source\SS 11 01.mov
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Aprilia_Logo.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\bathtub_6308936.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\bed_8948866.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\footage.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\heart.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\oven_7697562.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\phone-call.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\pin.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\save-instagram.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\01. Assets\footage\tag.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Bone ray.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Brain x ray.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\gra720.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Head x ray.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\in.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Lungs x ray.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Mri .png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Radiology.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\rttt@2x.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\saroj720.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Stomach scan.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Ultrasound.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Untitled 1\adobe-express-qr-code.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Untitled 1\Asset 3@3x.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Untitled 1\Asset 4@3x.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Untitled 1\sarojlab-calicut.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Untitled 1\t.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\saroj final file.aep\Untitled 1\y.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 1\adobe-express-qr-code.png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 1\images.jpeg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 1\Untitled design.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\1.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\1_1.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\2.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\2_1.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\3.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\4.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\5.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\6.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\7.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\8.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\9.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\Aprilia (1920 x 1080 px).jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\Aprilia (1920 x 1080 px).png
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\aprilia-seeklogo.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\aprilia_tuono_457_inner_feature2.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\aprilia_tuono_457_inner_feature3.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled 2\aprilia_tuono_457_inner_gallery1.jpg
+	D:\DMS\Aprilia\Archive (2)\(Footage)\Untitled design.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  28
+
+Effect:  
+	
+Effect:  4-Color Gradient
+	
+Effect:  Checkbox Control
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Displacement Map
+	
+Effect:  Drop Shadow
+	
+Effect:  Fill
+	
+Effect:  Fractal Noise
+	
+Effect:  Gradient Ramp
+	
+Effect:  Image Color Mode
+	
+Effect:  Levels
+	
+Effect:  Linear Wipe
+	
+Effect:  Mesh Warp
+	
+Effect:  Motion Tile
+	
+Effect:  Offset
+	
+Effect:  Point Control
+	
+Effect:  Radial Wipe
+	
+Effect:  Remove Color Matting
+	
+Effect:  Scale
+	
+Effect:  Set Matte
+	
+Effect:  Shift Channels
+	
+Effect:  Slider Control
+	
+Effect:  Timecode
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+Effect:  Venetian Blinds
+	
+Effect:  Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Bebas Neue”, Font style: “Regular”
+
