@@ -1,0 +1,59 @@
+{
+    "v": "1.0.0",
+    "meta": {
+        "category": "Scheduled Slide Show",
+        "enableHardwareAcceleration":true
+    },
+    "data": [
+        {
+            "name": "promovideo",
+            "datafile": "data.json",
+            "playlist": [
+                {
+                    "name": "Text",
+                    "type": "text",
+                    "textData": [
+                        [
+                            "qrCodeWrapper",
+                            "",
+                            null,
+                            null,
+                            [
+                                "img_0.jpg",
+                                "Fn(QRCodeURL,'https://wa.me/919526154000?text=Bring my big wish to big screen at {screen[name]}',500)",
+                                "685",
+                                "685"
+                            ],
+                            "text",
+                            "slide1"
+                        ],
+                        [
+                            "inputData",
+                            "{csvData.textdata}",
+                            null,
+                            null,
+                            null,
+                            "text",
+                            "slide1"
+                        ],
+                        [
+                            "imageChanger",
+                            "",
+                            null,
+                            null,
+                            [
+                                "img_5.jpg",
+                                "parseCsvLine({inputData})[0]",
+                                "1161",
+                                "722"
+                            ],
+                            "text",
+                            "slide1"
+                        ]
+                        
+                    ]
+                }
+            ]
+        }
+    ]
+}
