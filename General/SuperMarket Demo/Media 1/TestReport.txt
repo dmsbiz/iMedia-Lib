@@ -1,1 +1,305 @@
-Report created: 	25/9/25	9:59:08 AM GMT+5:30Project name: Test.aepSource files collected to: 	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1Source files collected: AllCollected comps:  	Demo2	MAIN	One Line - Horizontal	Three Line Bottom Left	01	02	02	03	04	05	06	07	08	BG	Comp 1	Now on Big Screens! Comp 1	Your Big Wishes,  Now on Big Screens! Comp 1	Zig Zag Lines 03	BG	CHAIN 01	CHAIN 2	CIRCULAR RAYS	CLEAN BG 	CLOUD 01	CLOUD CIRCLE 	CLOUDS BACKGROUND	Comp 2	Comp 7	PHONE ICON	POLE	Pre-comp 1	Pre-comp 2	Pre-comp 3	Pre-comp 4	Pre-comp 5	Pre-comp 6	Pre-comp 7	Pre-comp 8	Pre-comp 9	Pre-comp 10	Pre-comp 11	Pre-comp 12	Pre-comp 13	Pre-comp 14	Pre-comp 15	Pre-comp 16	Pre-comp 17	Pre-comp 18	SIGN 01	SIGN 02	VIDEO FRAME 01	VIDEO FRAME 02	VIDEO FRAME 03	VIDEO FRAME 04	VIDEO FRAME 05	VIDEO FRAME 06	VIDEO FRAME 07	VIDEO FRAME 08	VIDEO FRAME 09	VIDEO FRAME 10	WOOD BOARD	WOOD BOARD 2	WOOD BOARD 3	WOOD BOARD 4	WOOD BOARD 5	WOOD BOARD 6	WOOD BOARD 7	WOOD BOARD 8	WOOD BOARD 9	WOOD BOARD 10	WOOD BOARD 11	WOOD BOARD 12	WOOD BOARD 13	WOOD BOARD 14	WOOD BOARD 15	WOOD BOARD 16	WOOD BOARD 18	WOOD BOARD 19	WOOD BOARD 20	WOOD BOARD 21	WOOD BOARD 22	WOOD BOARD 23	WOOD BOARD 24	WOOD BOARD 25	WOOD BOARD 26	TEXT 01 HERE	TEXT 02 HERE	TEXT 03 HERE	TEXT 04 HERE	SCENE 01	SKILL 01	SKILL 02	SKILL 03	Demo1	SKILL 04	SKILL 05	SKILL 06	TEXT 05 HERE	SCENE 02	BIG PHOTO 01 HERE	BIG PHOTO 02 HERE 	BIG PHOTO 03 HERE	BIG PHOTO 04 HERE  	DESCRIPTION PHOTO 01	DESCRIPTION PHOTO 02	DESCRIPTION PHOTO 03	DESCRIPTION PHOTO 04	SMALL PHOTO 01 HERE 	SMALL PHOTO 02 HERE 	SMALL PHOTO 03 HERE 	SMALL PHOTO 04 HERE 	SMALL PHOTO 05 HERE 	SMALL PHOTO 06 HERE 	Demo3	TEXT 06 HERE 	SCENE 03	TEXT 08 HERE	TEXT 09 HERE 	TEXT 10 HERE	TEXT 11 HERE 	SCENE 04	TEXT 12 HERE	TEXT 13 HERE 	TEXT 14 HERE 	YOUR LOGO HERE	SCENE 05	RENDER COMP NTSC	RENDER COMP PAL	TEXTURE	TEXTURE 2	tempConverterComp	Number of collected files:  19Size of collected files:  60.6 MBCollected source files: 	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/adobe-express-qr-code.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/Ellipse 3.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/Frame 1597882223 (1).png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/Frame 1597882224 (1).png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/freepik__photorealistic-photograph-of-an-tech-park-building__60859.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/freepik__retouch__43415.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/GRADIENT_01.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/Big Wish Quick Smile/workfile/horizontal/(Footage)/Untitled 2/Untitled-1KKKK.png	/Users/achuthanandneelambaran/Downloads/corrner_dark.png	/Users/achuthanandneelambaran/Downloads/freepik_edit_The-style-is-candid-image-photography-with-natural (38).png	/Users/achuthanandneelambaran/Downloads/freepik_edit_The-style-is-candid-image-photography-with-natural.png	/Users/achuthanandneelambaran/Downloads/supermarket-1.png	/Users/achuthanandneelambaran/Downloads/supermarket-2.png	/Users/achuthanandneelambaran/Downloads/SWAK LOGO 2025.pdf	/Users/achuthanandneelambaran/Downloads/the-sky-is-the-limit-2025-07-16-06-26-00-utc/(Footage)/ASSETS/IMAGES/CURL 01.psd	/Users/achuthanandneelambaran/Downloads/the-sky-is-the-limit-2025-07-16-06-26-00-utc/(Footage)/ASSETS/IMAGES/PAPER TEXTURE.psd	/Users/achuthanandneelambaran/Downloads/the-sky-is-the-limit-2025-07-16-06-26-00-utc/(Footage)/ASSETS/IMAGES/TOP FLARE 02.psd	/Users/achuthanandneelambaran/Downloads/the-sky-is-the-limit-2025-07-16-06-26-00-utc/(Footage)/ASSETS/IMAGES/WOOD TEXTURE WITH ALPHA 02.psd	/Users/achuthanandneelambaran/Downloads/the-sky-is-the-limit-2025-07-16-06-26-00-utc/(Footage)/ASSETS/IMAGES/WOOD TEXTURE WITH ALPHA.psd	Rendering plug-ins:	Classic 3D	Effects used:  12Effect:  Circle	Effect:  Curves	Effect:  Drop Shadow	Effect:  Fast Blur (Legacy)	Effect:  Fill	Effect:  Gradient Ramp	Effect:  Motion Tile	Effect:  Scribble	Effect:  Slider Control	Effect:  Stroke	Effect:  Tint	Effect:  Warp	Layer:  Text Layer	External dependencies:  		Font family: “Barlow Condensed”, Font style: “Bold”
+Report created: 
+	25-Sep-25	7:31:44 PM
+
+Project name: Test.aep
+
+Source files collected to: 
+	D:\DMS\works-git\General\SuperMarket Demo\Test folder
+
+Source files collected: All
+
+Collected comps:  
+	Demo2
+	MAIN
+	One Line - Horizontal
+	Three Line Bottom Left
+	01
+	02
+	02
+	03
+	04
+	05
+	06
+	07
+	08
+	BG
+	Comp 1
+	Now on Big Screens! Comp 1
+	Your Big Wishes,  Now on Big Screens! Comp 1
+	Zig Zag Lines 03
+	BG
+	CHAIN 01
+	CHAIN 2
+	CIRCULAR RAYS
+	CLEAN BG 
+	CLOUD 01
+	CLOUD CIRCLE 
+	CLOUDS BACKGROUND
+	Comp 2
+	Comp 7
+	PHONE ICON
+	POLE
+	Pre-comp 1
+	Call Out 01
+	Pre-comp 2
+	Pre-comp 3
+	Pre-comp 4
+	Pre-comp 5
+	Pre-comp 6
+	Pre-comp 7
+	Pre-comp 8
+	Pre-comp 9
+	Pre-comp 10
+	Pre-comp 11
+	Pre-comp 12
+	Pre-comp 13
+	Pre-comp 14
+	Pre-comp 15
+	Pre-comp 16
+	Pre-comp 17
+	Pre-comp 18
+	SIGN 01
+	SIGN 02
+	VIDEO FRAME 01
+	VIDEO FRAME 02
+	VIDEO FRAME 03
+	VIDEO FRAME 04
+	VIDEO FRAME 05
+	VIDEO FRAME 06
+	VIDEO FRAME 07
+	VIDEO FRAME 08
+	VIDEO FRAME 09
+	VIDEO FRAME 10
+	WOOD BOARD
+	WOOD BOARD 2
+	WOOD BOARD 3
+	WOOD BOARD 4
+	WOOD BOARD 5
+	WOOD BOARD 6
+	WOOD BOARD 7
+	WOOD BOARD 8
+	WOOD BOARD 9
+	WOOD BOARD 10
+	WOOD BOARD 11
+	WOOD BOARD 12
+	WOOD BOARD 13
+	WOOD BOARD 14
+	WOOD BOARD 15
+	WOOD BOARD 16
+	WOOD BOARD 18
+	WOOD BOARD 19
+	WOOD BOARD 20
+	WOOD BOARD 21
+	WOOD BOARD 22
+	WOOD BOARD 23
+	WOOD BOARD 24
+	WOOD BOARD 25
+	WOOD BOARD 26
+	TEXT 01 HERE
+	TEXT 02 HERE
+	TEXT 03 HERE
+	TEXT 04 HERE
+	SCENE 01
+	SKILL 01
+	SKILL 02
+	SKILL 03
+	Demo1
+	SKILL 04
+	SKILL 05
+	SKILL 06
+	TEXT 05 HERE
+	SCENE 02
+	BIG PHOTO 01 HERE
+	BIG PHOTO 02 HERE 
+	BIG PHOTO 03 HERE
+	BIG PHOTO 04 HERE  
+	DESCRIPTION PHOTO 01
+	DESCRIPTION PHOTO 02
+	DESCRIPTION PHOTO 03
+	DESCRIPTION PHOTO 04
+	SMALL PHOTO 01 HERE 
+	SMALL PHOTO 02 HERE 
+	SMALL PHOTO 03 HERE 
+	SMALL PHOTO 04 HERE 
+	SMALL PHOTO 05 HERE 
+	SMALL PHOTO 06 HERE 
+	Demo3
+	TEXT 06 HERE 
+	SCENE 03
+	TEXT 08 HERE
+	TEXT 09 HERE 
+	TEXT 10 HERE
+	TEXT 11 HERE 
+	SCENE 04
+	TEXT 12 HERE
+	TEXT 13 HERE 
+	TEXT 14 HERE 
+	YOUR LOGO HERE
+	SCENE 05
+	Text 1
+	RENDER COMP NTSC
+	RENDER COMP PAL
+	TEXTURE
+	TEXTURE 2
+	Text 2
+	Call Out 02
+	Text 1
+	Text 2
+	Call Out 03
+	Text 1
+	Text 2
+	Call Out 04
+	Text 1
+	Text 2
+	Call Out 05
+	tempConverterComp
+	Text 1
+	Text 2
+	Call Out 06
+	Text 1
+	Text 2
+	Call Out 07
+	Text 1
+	Text 2
+	Call Out 08
+	Text 1
+	Text 2
+	Call Out 09
+	Text 1
+	Text 2
+	Final Comp
+	Story 01
+	Story 02
+	Story 03
+	Story 04
+	Story 05
+	Media 01
+	Media 02
+	Media 03
+	Media 01
+	Media 02
+	Media 03
+	Media 01
+	Media 02
+	Media 03
+	Media 04
+	Media 01
+	Media 01
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 07
+	Text 08
+	Text 09
+	Text 10
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Final 01
+	Final 02
+	Final 03
+	Final 04
+	Final 05
+	Cookie
+	Preview
+	Brand-Message
+	SuperMarketOwnersText
+	
+Number of collected files:  23
+
+Size of collected files:  61.4 MB
+
+Collected source files: 
+	D:\DMS\works-git\Customer Media\Craze Biscuits\logo\craze 01.png
+	D:\DMS\works-git\Customer Media\Craze Biscuits\logo\Craze Biscuits Logo.png
+	D:\DMS\works-git\Customer Media\Craze Biscuits\logo\craze.png
+	D:\DMS\works-git\Customer Media\Craze Biscuits\logo\craze02.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\adobe-express-qr-code.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\Ellipse 3.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\Frame 1597882223 (1).png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\Frame 1597882224 (1).png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\freepik__photorealistic-photograph-of-an-tech-park-building__60859.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\freepik__retouch__43415.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\GRADIENT_01.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\birth12-V04.aep\Untitled 2\Untitled-1KKKK.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\corrner_dark.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\freepik_edit_The-style-is-candid-image-photography-with-natural (38).png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\freepik_edit_The-style-is-candid-image-photography-with-natural.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\supermarket-1.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\supermarket-2.png
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\SWAK LOGO 2025.pdf
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\CURL 01.psd
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\PAPER TEXTURE.psd
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\TOP FLARE 02.psd
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\WOOD TEXTURE WITH ALPHA 02.psd
+	D:\DMS\works-git\General\SuperMarket Demo\Media 1\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\WOOD TEXTURE WITH ALPHA.psd
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  19
+
+Effect:  Circle
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Drop Shadow
+	
+Effect:  Fast Blur (Legacy)
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Gradient Ramp
+	
+Effect:  Layer Control
+	
+Effect:  Motion Tile
+	
+Effect:  Scribble
+	
+Effect:  Slider Control
+	
+Effect:  Stroke
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+Effect:  Turbulent Displace
+	
+Effect:  Warp
+	
+Effect:  Wiggle - position
+	
+Effect:  Wiggle - rotation
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Afacad”, Font style: “Medium”
+
