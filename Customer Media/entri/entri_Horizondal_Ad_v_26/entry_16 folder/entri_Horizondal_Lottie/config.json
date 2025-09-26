@@ -1,0 +1,36 @@
+{
+    "v": "1.0.0",
+    "meta": {
+        "category": "Scheduled Slide Show",
+        "enableHardwareAcceleration":true
+    },
+    "data": [
+        {
+            "name": "promovideo",
+            "datafile": "data.json",
+            "playlist": [
+                {
+                    "name": "Text",
+                    "type": "text",
+                    "textData": [
+                        [
+                            "qrCodeWrapper",
+                            "",
+                            null,
+                            null,
+                            [
+                                "img_3.jpg",
+                                "Fn(QRCodeURL,'https://wa.me/918943662922?text=Know More about? Unlock special offers with an exclusive coupon code! {screen[name]}',482)",
+                                "500",
+                                "500"
+                            ],
+                            "text",
+                            "slide1"
+                        ]
+                        
+                    ]
+                }
+            ]
+        }
+    ]
+}
