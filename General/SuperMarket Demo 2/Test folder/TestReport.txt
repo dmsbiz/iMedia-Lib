@@ -1,1 +1,438 @@
-Report created: 	26/9/25	8:23:11 AM GMT+5:30Project name: Test.aepSource files collected to: 	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo 2/Test folderSource files collected: AllCollected comps:  	Demo2	Color - 01	Color - 02	Color - 03	Color - 04	Color - 05	Color - 06	Color - 07	Color - 08	Color - 09	Color - 10	QR Code	T1 Text 1	T1 Text 2	T1 Text 3	T2 Text 1	BG	CHAIN 01	CHAIN 2	CIRCULAR RAYS	CLEAN BG 	CLOUD 01	CLOUD CIRCLE 	CLOUDS BACKGROUND	Comp 2	Comp 7	PHONE ICON	POLE	Pre-comp 1	Call Out 01	Pre-comp 2	Pre-comp 3	Pre-comp 4	Pre-comp 5	Pre-comp 6	Pre-comp 7	Pre-comp 8	Pre-comp 9	Pre-comp 10	Pre-comp 11	Pre-comp 12	Pre-comp 13	Pre-comp 14	Pre-comp 15	Pre-comp 16	Pre-comp 17	Pre-comp 18	SIGN 01	SIGN 02	VIDEO FRAME 01	VIDEO FRAME 02	VIDEO FRAME 03	VIDEO FRAME 04	VIDEO FRAME 05	VIDEO FRAME 06	VIDEO FRAME 07	VIDEO FRAME 08	VIDEO FRAME 09	VIDEO FRAME 10	WOOD BOARD	WOOD BOARD 2	WOOD BOARD 3	WOOD BOARD 4	WOOD BOARD 5	WOOD BOARD 6	WOOD BOARD 7	WOOD BOARD 8	WOOD BOARD 9	WOOD BOARD 10	WOOD BOARD 11	WOOD BOARD 12	WOOD BOARD 13	WOOD BOARD 14	WOOD BOARD 15	WOOD BOARD 16	WOOD BOARD 18	WOOD BOARD 19	WOOD BOARD 20	WOOD BOARD 21	WOOD BOARD 22	WOOD BOARD 23	WOOD BOARD 24	WOOD BOARD 25	WOOD BOARD 26	TEXT 01 HERE	TEXT 02 HERE	TEXT 03 HERE	TEXT 04 HERE	SCENE 01	SKILL 01	SKILL 02	SKILL 03	Demo1	SKILL 04	SKILL 05	SKILL 06	TEXT 05 HERE	SCENE 02	BIG PHOTO 01 HERE	BIG PHOTO 02 HERE 	BIG PHOTO 03 HERE	BIG PHOTO 04 HERE  	DESCRIPTION PHOTO 01	DESCRIPTION PHOTO 02	DESCRIPTION PHOTO 03	DESCRIPTION PHOTO 04	SMALL PHOTO 01 HERE 	SMALL PHOTO 02 HERE 	SMALL PHOTO 03 HERE 	SMALL PHOTO 04 HERE 	SMALL PHOTO 05 HERE 	SMALL PHOTO 06 HERE 	Demo3	TEXT 06 HERE 	SCENE 03	TEXT 08 HERE	TEXT 09 HERE 	TEXT 10 HERE	TEXT 11 HERE 	SCENE 04	TEXT 12 HERE	TEXT 13 HERE 	TEXT 14 HERE 	YOUR LOGO HERE	SCENE 05	Text 1	RENDER COMP NTSC	RENDER COMP PAL	TEXTURE	TEXTURE 2	Text 2	Call Out 02	Text 1	Text 2	Call Out 03	Text 1	Text 2	Call Out 04	Text 1	Text 2	Call Out 05	T2 Text 2	Text 1	Text 2	Call Out 06	Text 1	Text 2	Call Out 07	Text 1	Text 2	Call Out 08	Text 1	Text 2	Call Out 09	Text 1	Text 2	Final Comp	T3 Text 1	T3 Text 2	T4 Text 1	T4 Text 2	T5 Text 1	T5 Text 2	T6 Text 1	T6 Text 2	T7 Text 1	T7 Text 2	T8 Text 1	T8 Text 2	T8 Text 3	T9 Text 1	T9 Text 2	T10 Text 1	QR Code Title - 01	QR Code Title - 02	QR Code Title - 03	QR Code Title - 04	QR Code Title - 05	QR Code Title - 06	QR Code Title - 07	QR Code Title - 08	QR Code Title - 09	QR Code Title - 10	QR Code PC	Preview	Story 01	Story 02	Story 03	Story 04	Story 05	Media 01	Media 02	Media 03	Media 01	Media 02	Media 03	Media 01	Media 02	Media 03	Media 04	Media 01	Media 01	Text 01	Text 02	Text 03	Text 04	Text 01	Text 02	Text 03	Text 04	Text 05	Text 06	Text 07	Text 08	Text 09	Text 10	Text 01	Text 02	Text 03	Text 04	Text 05	Text 06	Text 01	Text 02	Text 03	Text 04	Text 05	Text 06	Text 01	Text 02	Text 03	Text 04	Text 05	Final 01	Final 02	Final 03	Final 04	Final 05	Cookie	Preview	Story 01	Story 02	Story 03	Brand-Message	SuperMarketOwnersText	Story 04	Story 05	Media 01	Media 02	Media 03	Media 01	Media 01	Media 01	Text 01	Text 02	Text 03	Text 04	Text 05	Text 01	Text 02	Text 03	Text 04	Text 05	Text 06	Text 07	Text 01	Text 02	Text 03	Text 04	Text 05	Text 06	Text 01	Text 02	Text 03	Text 04	Text 05	Text 06	Text 07	Text 08	Text 01	Text 02	Text 03	Text 04	Text 05	Text 06	Final 01	Final 02	Final 03	Final 04	Final 05	Donut	Preview	Number of collected files:  20Size of collected files:  56.0 MBCollected source files: 	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/adobe-express-qr-code.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/corrner_dark.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/craze 01.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/Craze Biscuits Logo.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/craze.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/craze02.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/freepik_edit_The-style-is-candid-image-photography-with-natural (38).png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/freepik_edit_The-style-is-candid-image-photography-with-natural.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/supermarket-1.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/supermarket-2.png	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/SWAK LOGO 2025.pdf	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/The sky is the limit (converted).aep/ASSETS/IMAGES/CURL 01.psd	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/The sky is the limit (converted).aep/ASSETS/IMAGES/PAPER TEXTURE.psd	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/The sky is the limit (converted).aep/ASSETS/IMAGES/TOP FLARE 02.psd	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/The sky is the limit (converted).aep/ASSETS/IMAGES/WOOD TEXTURE WITH ALPHA 02.psd	/Users/achuthanandneelambaran/Documents/GitHub/iMedia-Lib/General/SuperMarket Demo/Media 1/(Footage)/The sky is the limit (converted).aep/ASSETS/IMAGES/WOOD TEXTURE WITH ALPHA.psd	/Users/achuthanandneelambaran/Downloads/biscuit.png	/Users/achuthanandneelambaran/Downloads/biscuit_cover.png	/Users/achuthanandneelambaran/Downloads/Craze Biscuits Logo.pdf	/Users/achuthanandneelambaran/Downloads/crazelogo.png	Rendering plug-ins:	Classic 3D	Effects used:  19Effect:  Circle	Effect:  Color Control	Effect:  Curves	Effect:  Drop Shadow	Effect:  Fast Blur (Legacy)	Effect:  Fast Box Blur	Effect:  Fill	Effect:  Gradient Ramp	Effect:  Layer Control	Effect:  Motion Tile	Effect:  Scribble	Effect:  Slider Control	Effect:  Stroke	Effect:  Tint	Effect:  Transform	Effect:  Turbulent Displace	Effect:  Warp	Effect:  Wiggle - position	Effect:  Wiggle - rotation	Layer:  Text Layer	External dependencies:  		Font family: “Afacad”, Font style: “Medium”
+Report created: 
+	26-Sep-25	7:02:53 PM
+
+Project name: Test.aep
+
+Source files collected to: 
+	D:\DMS\EntryApp\EntryApp\Collected Files\Entri_new
+
+Source files collected: All
+
+Collected comps:  
+	Demo2
+	Color - 01
+	Color - 02
+	Color - 03
+	Color - 04
+	Color - 05
+	Color - 06
+	Color - 07
+	Color - 08
+	Color - 09
+	Color - 10
+	QR Code
+	T1 Text 1
+	T1 Text 2
+	T1 Text 3
+	T2 Text 1
+	BG
+	CHAIN 01
+	CHAIN 2
+	CIRCULAR RAYS
+	CLEAN BG 
+	CLOUD 01
+	CLOUD CIRCLE 
+	CLOUDS BACKGROUND
+	Comp 2
+	Comp 7
+	PHONE ICON
+	POLE
+	Pre-comp 1
+	Call Out 01
+	Pre-comp 2
+	Pre-comp 3
+	Pre-comp 4
+	Pre-comp 5
+	Pre-comp 6
+	Pre-comp 7
+	Pre-comp 8
+	Pre-comp 9
+	Pre-comp 10
+	Pre-comp 11
+	Pre-comp 12
+	Pre-comp 13
+	Pre-comp 14
+	Pre-comp 15
+	Pre-comp 16
+	Pre-comp 17
+	Pre-comp 18
+	SIGN 01
+	SIGN 02
+	VIDEO FRAME 01
+	VIDEO FRAME 02
+	VIDEO FRAME 03
+	VIDEO FRAME 04
+	VIDEO FRAME 05
+	VIDEO FRAME 06
+	VIDEO FRAME 07
+	VIDEO FRAME 08
+	VIDEO FRAME 09
+	VIDEO FRAME 10
+	WOOD BOARD
+	WOOD BOARD 2
+	WOOD BOARD 3
+	WOOD BOARD 4
+	WOOD BOARD 5
+	WOOD BOARD 6
+	WOOD BOARD 7
+	WOOD BOARD 8
+	WOOD BOARD 9
+	WOOD BOARD 10
+	WOOD BOARD 11
+	WOOD BOARD 12
+	WOOD BOARD 13
+	WOOD BOARD 14
+	WOOD BOARD 15
+	WOOD BOARD 16
+	WOOD BOARD 18
+	WOOD BOARD 19
+	WOOD BOARD 20
+	WOOD BOARD 21
+	WOOD BOARD 22
+	WOOD BOARD 23
+	WOOD BOARD 24
+	WOOD BOARD 25
+	WOOD BOARD 26
+	TEXT 01 HERE
+	TEXT 02 HERE
+	TEXT 03 HERE
+	TEXT 04 HERE
+	SCENE 01
+	SKILL 01
+	SKILL 02
+	SKILL 03
+	Demo1
+	SKILL 04
+	SKILL 05
+	SKILL 06
+	TEXT 05 HERE
+	SCENE 02
+	BIG PHOTO 01 HERE
+	BIG PHOTO 02 HERE 
+	BIG PHOTO 03 HERE
+	BIG PHOTO 04 HERE  
+	DESCRIPTION PHOTO 01
+	DESCRIPTION PHOTO 02
+	DESCRIPTION PHOTO 03
+	DESCRIPTION PHOTO 04
+	SMALL PHOTO 01 HERE 
+	SMALL PHOTO 02 HERE 
+	SMALL PHOTO 03 HERE 
+	SMALL PHOTO 04 HERE 
+	SMALL PHOTO 05 HERE 
+	SMALL PHOTO 06 HERE 
+	Demo3
+	TEXT 06 HERE 
+	SCENE 03
+	TEXT 08 HERE
+	TEXT 09 HERE 
+	TEXT 10 HERE
+	TEXT 11 HERE 
+	SCENE 04
+	TEXT 12 HERE
+	TEXT 13 HERE 
+	TEXT 14 HERE 
+	YOUR LOGO HERE
+	SCENE 05
+	Text 1
+	RENDER COMP NTSC
+	RENDER COMP PAL
+	TEXTURE
+	TEXTURE 2
+	Text 2
+	Call Out 02
+	Text 1
+	Text 2
+	Call Out 03
+	Text 1
+	Text 2
+	Call Out 04
+	Text 1
+	Text 2
+	Call Out 05
+	T2 Text 2
+	Text 1
+	Text 2
+	Title_Transition_1
+	Call Out 06
+	Text 1
+	Text 2
+	Call Out 07
+	Text 1
+	Text 2
+	Call Out 08
+	Text 1
+	Text 2
+	Call Out 09
+	Text 1
+	Text 2
+	Final Comp
+	Title_Transition_2
+	Title_Transition_3
+	Title_Transition_4
+	Title_Transition_5
+	Title_Transition_6
+	Title_Transition_7
+	Title_Transition_8
+	T01_Text_01
+	T01_Text_02
+	T01_Text_03
+	T01_Text_04
+	T02_Text_01
+	T02_Text_02
+	T02_Text_03
+	T03_Text_01
+	T03_Text_02
+	T03_Text_03
+	T03_Text_04
+	T03_Text_05
+	T03_Text_06
+	T04_Text_01
+	T04_Text_02
+	T04_Text_03
+	T05_Text_01
+	T05_Text_02
+	T05_Text_03
+	T05_Text_04
+	T06_Text_01
+	T06_Text_02
+	T06_Text_03
+	T06_Text_04
+	T07_Text_01
+	T07_Text_02
+	T07_Text_03
+	T07_Text_04
+	T08_Text_01
+	T08_Text_02
+	T08_Text_03
+	T08_Text_04
+	Final_Title_1
+	Final_Title_2
+	Final_Title_3
+	Final_Title_4
+	Final_Title_5
+	Final_Title_6
+	Final_Title_7
+	Final_Title_8
+	FULL
+	PRE_01
+	PRE_02
+	PRE_03
+	PRE_04
+	PRE_05
+	PRE_06
+	T3 Text 1
+	T3 Text 2
+	T4 Text 1
+	T4 Text 2
+	T5 Text 1
+	T5 Text 2
+	T6 Text 1
+	T6 Text 2
+	T7 Text 1
+	T7 Text 2
+	T8 Text 1
+	T8 Text 2
+	T8 Text 3
+	T9 Text 1
+	T9 Text 2
+	T10 Text 1
+	QR Code Title - 01
+	QR Code Title - 02
+	QR Code Title - 03
+	QR Code Title - 04
+	QR Code Title - 05
+	QR Code Title - 06
+	QR Code Title - 07
+	QR Code Title - 08
+	QR Code Title - 09
+	QR Code Title - 10
+	QR Code PC
+	Preview
+	Story 01
+	Story 02
+	Story 03
+	Story 04
+	Story 05
+	Media 01
+	Media 02
+	Media 03
+	Media 01
+	Media 02
+	Media 03
+	Media 01
+	Media 02
+	Media 03
+	Media 04
+	Media 01
+	Media 01
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 07
+	Text 08
+	Text 09
+	Text 10
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Final 01
+	Final 02
+	Final 03
+	Final 04
+	Final 05
+	Cookie
+	Preview
+	Story 01
+	Story 02
+	Story 03
+	Brand-Message
+	SuperMarketOwnersText
+	Story 04
+	Story 05
+	Media 01
+	Media 02
+	Media 03
+	Media 01
+	Media 01
+	Media 01
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 07
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	PRE_07
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Text 07
+	Text 08
+	Text 01
+	Text 02
+	Text 03
+	Text 04
+	Text 05
+	Text 06
+	Final 01
+	Final 02
+	Final 03
+	Final 04
+	Final 05
+	Donut
+	Preview
+	PRE_08
+	comp 01
+	
+Number of collected files:  20
+
+Size of collected files:  46.5 MB
+
+Collected source files: 
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\adobe-express-qr-code.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\corrner_dark.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\craze 01.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\Craze Biscuits Logo.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\craze02.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\freepik_edit_The-style-is-candid-image-photography-with-natural (38).png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\freepik_edit_The-style-is-candid-image-photography-with-natural.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\m_logo_latest.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\supermarket-2.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\supermarket-3.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\AssetsFolder\SWAK LOGO.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\CrazeBiscuit.aep\biscuit.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\CrazeBiscuit.aep\biscuit_cover.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\CrazeBiscuit.aep\Donut Instagram Stories.aep\1. Edit\Craze Biscuits Logo.pdf
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\crazelogo.png
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\CURL 01.psd
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\PAPER TEXTURE.psd
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\TOP FLARE 02.psd
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\WOOD TEXTURE WITH ALPHA 02.psd
+	D:\DMS\works-git\General\SuperMarket Demo 2\Test folder\(Footage)\The sky is the limit (converted).aep\ASSETS\IMAGES\WOOD TEXTURE WITH ALPHA.psd
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  20
+
+Effect:  
+	
+Effect:  Circle
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Drop Shadow
+	
+Effect:  Fast Blur (Legacy)
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Gradient Ramp
+	
+Effect:  Layer Control
+	
+Effect:  Motion Tile
+	
+Effect:  Scribble
+	
+Effect:  Slider Control
+	
+Effect:  Stroke
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+Effect:  Turbulent Displace
+	
+Effect:  Warp
+	
+Effect:  Wiggle - position
+	
+Effect:  Wiggle - rotation
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Afacad”, Font style: “Medium”
+
